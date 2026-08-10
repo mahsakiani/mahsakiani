@@ -1,29 +1,30 @@
 # Hi, I'm Mahsa Kiani 👋
 
-### WordPress Developer · Custom Themes · Plugins · WooCommerce
+### WordPress Developer | Custom Themes, Plugins & WooCommerce
 
-I’m a WordPress Developer with 8+ years of experience building
+I'm a WordPress Developer with 8+ years of experience building
 custom, high-performance WordPress websites and WooCommerce solutions.
 
-My main focus is custom WordPress development — from theme architecture
-and Gutenberg blocks to plugins, ACF-powered content structures,
-WooCommerce customization, and performance optimization.
+I specialize in custom theme development, plugin development,
+Gutenberg blocks, ACF-powered content structures, WooCommerce
+customization, and WordPress performance optimization.
 
 I enjoy turning designs and business requirements into clean,
-maintainable, responsive WordPress solutions.
+responsive, maintainable WordPress solutions.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🧩 30+ custom WordPress themes developed
+- 💻 8+ years of WordPress development experience
+- 🎨 30+ custom WordPress themes delivered
 - 🛒 20+ WooCommerce stores built and customized
+- 🧱 Custom Gutenberg blocks and block-based development
 - 🔌 Custom WordPress plugin development
-- 🧱 Gutenberg / Block Editor development
-- ⚙️ ACF, Custom Post Types & Taxonomies
-- 🎨 Figma → pixel-perfect WordPress development
-- 🚀 WordPress performance optimization
-- 🧩 Custom Elementor widgets
+- ⚙️ ACF, Custom Post Types, Taxonomies & WordPress APIs
+- 🎯 Figma → responsive, pixel-perfect WordPress implementation
+- 🚀 Performance optimization and clean code
+- 🧩 Custom Elementor widget development
 - 🌍 Experience working with agencies and international clients
 
 ---
@@ -32,78 +33,102 @@ maintainable, responsive WordPress solutions.
 
 ### WordPress
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-`Custom Themes` · `Custom Plugins` · `Gutenberg` · `ACF`
-`WooCommerce` · `CPT` · `Taxonomies` · `WordPress APIs` · `Hooks`
+**Custom Themes** · **Custom Plugins** · **Gutenberg** · **ACF**
+**WooCommerce** · **Custom Post Types** · **Taxonomies**
+**WordPress APIs** · **Hooks**
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-`LocalWP` · `cPanel`
+**LocalWP** · **cPanel**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🦖 DinoBlocks
 
-A collection of modern Gutenberg blocks for WordPress.
+A collection of modern WordPress Gutenberg blocks and block patterns.
 
-**Focus:**
+DinoBlocks is a personal WordPress development project focused on
+building reusable components for the Gutenberg editor.
+
+**Focus areas:**
 
 - Gutenberg / Block Editor
 - Custom WordPress blocks
+- Block patterns
 - Reusable components
 - Modern WordPress development
-- Block-based WordPress architecture
+- WordPress plugin architecture
 
-🔗 [View Repository](https://github.com/mahsakiani/dinoblocks)
-
----
-
-### 🌐 OzLeap
-
-A custom WordPress Block Theme built with Full Site Editing,
-custom templates and block patterns.
-
-**Focus:**
-
-- WordPress FSE
-- Block Theme development
-- Custom templates
-- Block patterns
-- Responsive implementation
-
-🔗 [Visit Website](https://ozleap.com/)
+🔗 **[View DinoBlocks on GitHub](https://github.com/mahsakiani/dinoblocks)**
 
 ---
 
-## 🧩 Areas of Expertise
+## 🌐 Selected Work
 
-| Area | Experience |
-|------|------------|
-| WordPress | Custom Themes & Plugins |
+### OzLeap
+**WordPress Block Theme · Full Site Editing**
+
+Custom WordPress Block Theme with custom templates and block patterns.
+
+**Focus:** FSE · Block Themes · Templates · Patterns · Responsive UI
+
+🌐 **[ozleap.com](https://ozleap.com/)**
+
+---
+
+### Elmi Publications
+**Custom WooCommerce Theme**
+
+Custom WooCommerce implementation focused on store functionality
+and a tailored user experience.
+
+---
+
+### KamranDiba
+**Custom WordPress Theme · ACF**
+
+Custom WordPress theme with an ACF-powered content structure.
+
+---
+
+### Studio Sepehr
+**Custom WordPress Theme · Responsive UI**
+
+Custom WordPress development with responsive, design-focused
+implementation.
+
+---
+
+## 🧩 Core Expertise
+
+| Area | What I Work With |
+| --- | --- |
+| WordPress | Custom Themes, Plugins, APIs & Hooks |
+| Gutenberg | Custom Blocks, Patterns & Editor Customization |
 | WooCommerce | Store, Product & Checkout Customization |
-| Gutenberg | Custom Blocks & Editor Customization |
 | ACF | Custom Fields & Content Structures |
-| PHP | WordPress Development & APIs |
-| Frontend | HTML, CSS, JavaScript, jQuery |
-| Elementor | Custom Widgets |
-| Performance | Optimization & Caching |
-| Responsive UI | Figma → WordPress |
+| PHP | WordPress Development & Backend Logic |
+| Frontend | HTML, CSS, JavaScript & jQuery |
+| Elementor | Custom Widgets & Extensions |
+| Performance | Code Optimization & Caching |
+| Responsive UI | Figma → Pixel-Perfect WordPress |
 
 ---
 
@@ -111,26 +136,25 @@ custom templates and block patterns.
 
 ### Custom WordPress Themes
 
-I build WordPress themes from scratch based on project
-requirements and design systems rather than relying on
-generic pre-built themes.
+Custom themes developed around the project's design,
+content structure and business requirements.
 
-### Custom Plugins
+### Custom WordPress Plugins
 
-Custom functionality designed around specific business
-requirements, workflows and WordPress APIs.
+Purpose-built plugins that extend WordPress functionality
+and automate project-specific workflows.
 
-### WooCommerce
+### WooCommerce Solutions
 
-Custom WooCommerce solutions including:
+Custom WooCommerce development including:
 
 - Product customization
 - Checkout customization
-- Store functionality
-- Custom themes
+- Store customization
+- Custom WooCommerce themes
 - Performance optimization
 
-### Gutenberg
+### Gutenberg Development
 
 Modern block-based WordPress development including:
 
@@ -138,87 +162,68 @@ Modern block-based WordPress development including:
 - Block patterns
 - Editor customization
 - Full Site Editing
+- Reusable components
 
 ---
 
-## ⚡ Development Philosophy
+## ⚡ Development Approach
 
-I care about more than making a website "work".
+I focus on building WordPress solutions that are:
 
-My focus is on:
+**Custom**  
+Built around the actual requirements of the project.
 
-**Performance**  
-Fast-loading and optimized WordPress implementations.
+**Performant**  
+Focused on efficient code and optimized loading performance.
 
-**Maintainability**  
-Clean and structured code that can be maintained and extended.
+**Maintainable**  
+Structured so the project can be extended and maintained over time.
 
-**Responsiveness**  
-Accurate implementation across desktop, tablet and mobile.
+**Responsive**  
+Designed and developed to work across desktop, tablet and mobile.
 
-**Scalability**  
-Solutions that can evolve as the project grows.
-
-**Custom Development**  
-Building what the project actually needs instead of adding
-unnecessary plugins and dependencies.
+**Scalable**  
+Built with future functionality and content growth in mind.
 
 ---
 
-## 📌 Selected Work
+## 📌 Currently Building & Focusing On
 
-Some of the WordPress projects I've worked on include:
-
-- **OzLeap** — WordPress Block Theme / FSE
-- **Elmi Publications** — Custom WooCommerce Theme
-- **KamranDiba** — Custom Theme + ACF content structure
-- **Studio Sepehr** — Custom WordPress Theme
-- **Phsonic** — Custom Portfolio Theme
-- **Messbarco** — Custom Landing Page Development
-- **Kaweco** — Custom WooCommerce Theme
-- **HoopUnite** — Custom WordPress Course Platform
-- **MKordi** — Custom WordPress Portfolio
-- **Talentyab** — Commercial RTL WordPress Theme
-
----
-
-## 📈 Currently Exploring
-
-- Advanced Gutenberg development
-- WordPress Block Themes
-- Full Site Editing
-- Reusable Gutenberg components
-- Custom WordPress plugins
-- WooCommerce development
-- WordPress performance
-- Modern WordPress architecture
+- 🧱 Gutenberg block development
+- 🦖 DinoBlocks
+- 🎨 WordPress Block Themes
+- ⚙️ Full Site Editing
+- 🔌 Custom WordPress plugins
+- 🛒 WooCommerce development
+- 🚀 WordPress performance optimization
+- 🧩 Reusable WordPress components
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I'm interested in working with:
+I'm interested in collaborating with:
 
 - WordPress agencies
 - Product companies
-- International teams
+- International development teams
 - Freelance clients
 - WooCommerce projects
 - Custom WordPress development teams
 
-Especially projects where WordPress is treated as a development
-platform rather than just a page builder.
+Especially projects where WordPress is used as a flexible
+development platform rather than only as a page builder.
 
 ---
 
 ## 📫 Let's Connect
 
-📧 **Email:** mhskiani@gmail.com
+📧 **Email:** [mhskiani@gmail.com](mailto:mhskiani@gmail.com)
 
 💼 **LinkedIn:** [Mahsa Kiani](https://www.linkedin.com/in/mahskiani)
 
-🌐 **Portfolio:** Available through my selected projects above.
+🌐 **GitHub:** [github.com/mahsakiani](https://github.com/mahsakiani)
 
 ---
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
