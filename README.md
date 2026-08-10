@@ -16,20 +16,20 @@ responsive, maintainable WordPress solutions.
 
 ## 👩‍💻 About Me
 
-- 💻 8+ years of WordPress development experience
-- 🎨 30+ custom WordPress themes delivered
-- 🛒 20+ WooCommerce stores built and customized
-- 🧱 Custom Gutenberg blocks and block-based development
-- 🔌 Custom WordPress plugin development
-- ⚙️ ACF, Custom Post Types, Taxonomies & WordPress APIs
-- 🎯 Figma → responsive, pixel-perfect WordPress implementation
-- 🚀 Performance optimization and clean code
-- 🧩 Custom Elementor widget development
-- 🌍 Experience working with agencies and international clients
+-  8+ years of WordPress development experience
+-  30+ custom WordPress themes delivered
+-  20+ WooCommerce stores built and customized
+-  Custom Gutenberg blocks and block-based development
+-  Custom WordPress plugin development
+-  ACF, Custom Post Types, Taxonomies & WordPress APIs
+-  Figma → responsive, pixel-perfect WordPress implementation
+-  Performance optimization and clean code
+-  Custom Elementor widget development
+-  Experience working with agencies and international clients
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### WordPress
 
@@ -58,7 +58,7 @@ responsive, maintainable WordPress solutions.
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🦖 DinoBlocks
 
@@ -80,43 +80,7 @@ building reusable components for the Gutenberg editor.
 
 ---
 
-## 🌐 Selected Work
-
-### OzLeap
-**WordPress Block Theme · Full Site Editing**
-
-Custom WordPress Block Theme with custom templates and block patterns.
-
-**Focus:** FSE · Block Themes · Templates · Patterns · Responsive UI
-
-🌐 **[ozleap.com](https://ozleap.com/)**
-
----
-
-### Elmi Publications
-**Custom WooCommerce Theme**
-
-Custom WooCommerce implementation focused on store functionality
-and a tailored user experience.
-
----
-
-### KamranDiba
-**Custom WordPress Theme · ACF**
-
-Custom WordPress theme with an ACF-powered content structure.
-
----
-
-### Studio Sepehr
-**Custom WordPress Theme · Responsive UI**
-
-Custom WordPress development with responsive, design-focused
-implementation.
-
----
-
-## 🧩 Core Expertise
+## Core Expertise
 
 | Area | What I Work With |
 | --- | --- |
@@ -132,7 +96,7 @@ implementation.
 
 ---
 
-## 🏗️ What I Build
+## What I Build
 
 ### Custom WordPress Themes
 
@@ -166,7 +130,7 @@ Modern block-based WordPress development including:
 
 ---
 
-## ⚡ Development Approach
+## Development Approach
 
 I focus on building WordPress solutions that are:
 
@@ -184,19 +148,6 @@ Designed and developed to work across desktop, tablet and mobile.
 
 **Scalable**  
 Built with future functionality and content growth in mind.
-
----
-
-## 📌 Currently Building & Focusing On
-
-- 🧱 Gutenberg block development
-- 🦖 DinoBlocks
-- 🎨 WordPress Block Themes
-- ⚙️ Full Site Editing
-- 🔌 Custom WordPress plugins
-- 🛒 WooCommerce development
-- 🚀 WordPress performance optimization
-- 🧩 Reusable WordPress components
 
 ---
 
@@ -218,12 +169,8 @@ development platform rather than only as a page builder.
 
 ## 📫 Let's Connect
 
-📧 **Email:** [mhskiani@gmail.com](mailto:mhskiani@gmail.com)
+**Email:** [mhskiani@gmail.com](mailto:mhskiani@gmail.com)
 
-💼 **LinkedIn:** [Mahsa Kiani](https://www.linkedin.com/in/mahskiani)
+**LinkedIn:** [Mahsa Kiani](https://www.linkedin.com/in/mahskiani)
 
-🌐 **GitHub:** [github.com/mahsakiani](https://github.com/mahsakiani)
-
----
-
-⭐ Thanks for visiting my profile!
+**GitHub:** [github.com/mahsakiani](https://github.com/mahsakiani)
